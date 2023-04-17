@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1681660110 source:c:\users\neses\onedrive\pulpit\c++\c++ (kim)\( vi )\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+
