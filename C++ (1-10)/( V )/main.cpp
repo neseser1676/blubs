@@ -1,4 +1,4 @@
-#include <iostream>
+#include <iostream> omg 0 magnezu
 
 using namespace std;
 
